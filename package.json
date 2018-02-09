@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Know the weather on any location using a country, city, street adress or postal code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FixTheInternet/Weather-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FixTheInternet/Weather-App/issues"
+  },
+  "homepage": "https://github.com/FixTheInternet/Weather-App#readme",
+  "dependencies": {
+    "request": "^2.73.0",
+    "yargs": "^4.8.1"
+  }
+}
